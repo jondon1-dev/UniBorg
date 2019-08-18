@@ -47,3 +47,5 @@ zalgo_text
 pyfiglet 
 ChatterBot
 chatterbot_corpus
+spcli
+instaloader
