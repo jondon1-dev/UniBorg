@@ -1,6 +1,6 @@
 """ Powered by @Google
 Available Commands:
-.go <query>
+.google <query>
 .google image <query>
 .google reverse search"""
 
