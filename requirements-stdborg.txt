@@ -9,7 +9,6 @@ mtranslate
 google_auth_oauthlib
 googletrans
 google_images_download
-gsearch>=1.6.0
 gtts
 hachoir
 Pillow
